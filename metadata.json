@@ -1,0 +1,6 @@
+{
+  "name": "Healthy Heroes: Build Your Perfect Healthy Day!",
+  "description": "An interactive educational PE nutrition video game for students aged 10-12 to learn balanced food choices, variety, hydration, and healthy everyday habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
